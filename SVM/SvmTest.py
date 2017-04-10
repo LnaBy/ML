@@ -1,4 +1,4 @@
-# by lna 2017/3/7
+﻿# by lna 2017/3 /7
 
 from sklearn import svm
 import matplotlib.pyplot as plt
